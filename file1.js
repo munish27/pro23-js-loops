@@ -7,4 +7,4 @@ while(count<5){
     count++;
 }
 document.write(total);
-document.getElementById("pro2") = total;
+document.getElementById("pro2").innerHTML = total;
