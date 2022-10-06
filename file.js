@@ -1,5 +1,5 @@
 
-// Program to take the nput from the user and print it.
+// Program to take the input from the user and print it.
 var count = 0;
 while(count<5){
     var value = prompt("Enter the value: ");
